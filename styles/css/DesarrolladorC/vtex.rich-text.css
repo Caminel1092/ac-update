@@ -51,4 +51,7 @@
 .wrapper--terminos {
   margin: 0;
 }
+.wrapper{
+  margin: 0 !important;
+}
 }

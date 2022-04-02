@@ -187,7 +187,7 @@
   },
   "flex-layout.col#right-colMobile": {
     "props": {
-      "blockClass":"lateralCol",
+      "blockClass":"lateralColM",
       "preventVerticalStretch": true,
       "rowGap": 0
     },

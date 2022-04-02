@@ -31,8 +31,6 @@
 .flexColChild--circuloN::before {
   top: 27% !important;
 }
-
-
 /*Cerrar remplazos*/
 
 .flexRowContent--menu-link {
@@ -64,5 +62,18 @@
 .flexRowContent--main-header-mobile {
   max-height: 48px;
 }
+.flexCol--lateralColM {
+  padding: 0 2%;
+}
+.flexCol--buycolection {
+  display: flex;
+  justify-content: end;
+  margin-left: 0%;
+}
 
+}
+.flexRow--minicart-footer{
+  background:#18202c;;
+  margin: 0 !important;
+  width: 100% !important;
 }

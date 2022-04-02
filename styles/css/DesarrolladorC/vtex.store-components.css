@@ -57,6 +57,25 @@
 .productBrand--quickview {
   font-size: 26px;
 }
+.infoCardCallActionContainer--categorias2-banners :global(.vtex-button) {
+  background: white;
+  border: none;
+  border-radius: 0;
+}
+
+.infoCardContainer--categorias2-banners {
+  width: 100%;
+  min-height: 300px;
+}
+
+.infoCardContainer--categorias2-banners {
+  width: 100%;
+  min-height: 300px;
+}
+
+.brandName {
+  font-size: 12px;
+}
 
 }
 @media screen and (max-width: 1025px) {
@@ -69,4 +88,7 @@
   margin: 0px;
 }
 
+}
+.skuSelectorContainer--vitrina {
+  position: relative;
 }
