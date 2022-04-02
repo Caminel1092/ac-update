@@ -6,3 +6,19 @@
 .minicartQuantityBadge--minicart-home{
   background: black;
 }
+
+/*Stilos Mobil*/
+@media screen and (max-width: 700px) {
+
+.minicartContainer--minicart-home{
+  margin: 0px;
+}
+
+}
+@media screen and (max-width: 1025px) {
+
+  .minicartContainer--minicart-home{
+    margin: 0px;
+  }
+  
+  }
