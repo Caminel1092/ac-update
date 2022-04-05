@@ -4,12 +4,24 @@
   },
   "footer-layout.desktop": {
     "children": [
+      "image#whatsappS",
       "flex-layout.row#footer1",
       "flex-layout.row#footer-1-desktop",
       "flex-layout.row#home__social-networks",
       "rich-text#terms",
       "flex-layout.row#term--y--logo"
     ]
+  },
+  "image#whatsappS": {
+    "props": {
+      "src": "https://arturocalle.vteximg.com.br/arquivos/WhatsApp_btm_msj_ac.png",
+      "maxHeight": 50,
+      "blockClass":"whtasapp",
+      "link":{
+        "url":"https://api.whatsapp.com/send?phone=573183490000",
+        "newTab": "true"
+      }
+    }
   },
   "rich-text#terms":{
     "props": {
