@@ -85,11 +85,15 @@
     "children":[
       "flex-layout.col#home__minicart--bolsa-de-compra",
       "flex-layout.col#home__minicart--circulo-negro"
+<<<<<<< HEAD
     ],
     "props": {
       "preserveLayoutOnMobile": "true",
       "blockClass": "minicart"
     }
+=======
+    ]
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   },
   "flex-layout.col#home__minicart--bolsa-de-compra":{
     "props":{

@@ -25,7 +25,11 @@
   },
   "rich-text#terms":{
     "props": {
+<<<<<<< HEAD
       "text": "[TÉRMINOS Y CONDICIONES](/terminos-y-condiciones) | LÍNEA NACIONAL: 01 8000 180120 - BOGOTÁ: PBX 743 88 00 - HORARIO DE ATENCIÓN: LUN-VIE 8:00 A.M A 5:00 PM | NOTIFICACIONES: AVENIDA BOYACÁ # 152 B - 62, BOGOTÁ, COLOMBIA \n\nCONTACTENOS@ARTUROCALLE.COM | RAZÓN SOCIAL: COMERCIALIZADORA ARTURO CALLE S.A.S. | NIT: 900.342.297-2 | © 2022 TODOS LOS DERECHOS RESERVADOS",
+=======
+      "text": "TÉRMINOS Y CONDICIONES | LÍNEA NACIONAL: 01 8000 180120 - BOGOTÁ: PBX 743 88 00 - HORARIO DE ATENCIÓN: LUN-VIE 8:00 A.M A 5:00 PM | NOTIFICACIONES: AVENIDA BOYACÁ # 152 B - 62, BOGOTÁ, COLOMBIA \n\nCONTACTENOS@ARTUROCALLE.COM | RAZÓN SOCIAL: COMERCIALIZADORA ARTURO CALLE S.A.S. | NIT: 900.342.297-2 | © 2022 TODOS LOS DERECHOS RESERVADOS",
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "font": "t-heading-1",
@@ -57,7 +61,11 @@
       "font": "t-heading-1",
       "blockClass": "terminos--y--logo"
     }
+<<<<<<< HEAD
   },
+=======
+  }, 
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   "flex-layout.col#imagen--logo--payu":{
     "props":{
       "width":"5%"
@@ -241,9 +249,15 @@
       "paddingBottom": 4,
       "blockClass": "footer-mobile"
     },
+<<<<<<< HEAD
     "children": [
       "flex-layout.col#logo-desktop1",
       "flex-layout.col#PrimeraCol1",
+=======
+    "children": [      
+      "flex-layout.col#logo-desktop1",
+      "flex-layout.col#PrimeraCol1",  
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
       "flex-layout.col#PrimeraCol2",
       "flex-layout.col#PrimeraCol3",
       "flex-layout.col#PrimeraCol4",
@@ -283,7 +297,11 @@
     "children": [
       "modal-header#cerrar-tiendas",
       "iframe#footer-localizacion-tiendas"
+<<<<<<< HEAD
     ]
+=======
+    ] 
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   },
   "modal-header#cerrar-tiendas": {
     "props": {

@@ -3,7 +3,10 @@
 /*-----------------------*/
 @media screen and (max-width: 700px){
   .styledLinkContent--item:hover {
+<<<<<<< HEAD
     width: inherit;
+=======
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
     text-decoration: initial;
     transition: all .8s;
   }

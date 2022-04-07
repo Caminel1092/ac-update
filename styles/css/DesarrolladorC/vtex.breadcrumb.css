@@ -21,6 +21,7 @@
         margin-top: 4%;
         display: block;
     }
+<<<<<<< HEAD
     .arrow--breadP {padding: 0;}
 
     .link--breadP {padding-left: 0;padding-right: 0;}
@@ -30,4 +31,7 @@
     .arrow--breadP {
         margin: 0 2px 0 0;
     }
+=======
+    
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 }

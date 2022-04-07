@@ -41,6 +41,13 @@
 @media screen and (max-width: 700px) {
   .searchBarContainer {margin: 0;padding: 0;width: 100%;}
 
+<<<<<<< HEAD
+=======
+  .imageElement--minicart-home-bolsa {
+    display: none;
+}
+
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 .logoLink{
   margin: 0px;
 }
@@ -105,8 +112,13 @@
 .container {max-width: 2000px;}
 
 /*Producto ajustes*/
+<<<<<<< HEAD
 /*.productImagesContainer--carousel::after {content: "";width: 30px;height: 30px;background: url(https://callearturop.vteximg.com.br/arquivos/iconoampliar.png) no-repeat;position: absolute;z-index: 999;right: 4%;top: 3%;background-size: 100%;}
 */
+=======
+.productImagesContainer--carousel::after {content: "";width: 30px;height: 30px;background: url(https://callearturop.vteximg.com.br/arquivos/iconoampliar.png) no-repeat;position: absolute;z-index: 999;right: 4%;top: 3%;background-size: 100%;}
+
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 /*Nombre de los colores*/
 .skuSelectorItem--selector--gris-granito.skuSelectorItem--selector--selected::before {
   content: "Gris granito";
@@ -456,6 +468,7 @@
 .imageElementLink--whtasapp {position: fixed;bottom: 1%;right: 1%;
   z-index: 999;
 }
+<<<<<<< HEAD
 
 .skuSelectorContainer:hover .skuSelectorSubcontainer--talla::after {content: "Selecciona tu talla";background: red;border: 1px solid;border-radius: 5px;font-size: 12px;color: white;text-align: center;width: 32%;padding: 0 2%;margin: 0 2%;}
 
@@ -481,3 +494,5 @@
 }
 
 .skuSelectorContainer--selector .skuSelectorSubcontainer--talla::after {content: "" !important;}
+=======
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913

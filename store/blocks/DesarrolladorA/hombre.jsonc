@@ -83,7 +83,11 @@
     "blockClass": ["banner-vitrina2","vitrina2-1"]
   },
   "children": [
+<<<<<<< HEAD
     "image#col-shoes-hombre-left",
+=======
+    "info-card#col-shoes-hombre-left",
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
     "info-card#col-shoes-hombre-leftM"
   ]
 },
@@ -95,6 +99,7 @@
     "shelf#shoes-hombre"
   ]
 },
+<<<<<<< HEAD
 
 "image#col-shoes-hombre-left": {
   "props": {
@@ -116,6 +121,19 @@
   }
 },
 
+=======
+"info-card#col-shoes-hombre-left":{
+  "props": {
+    "id": "info-card-shoes",
+    "isFullModeStyle": true,
+    "fullWidth": true,
+    //"textPosition": "left",
+    "imageUrl": "assets/desk/hombre/banner-vitrina1.jpg",
+    "callToActioMode": "none",
+    "blockClass": ["info-card-shoes-left", "depto-desk"]
+  }
+},
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 "info-card#col-shoes-hombre-leftM":{
   "props": {
     "id": "info-card-shoes",
@@ -172,6 +190,7 @@
     "blockClass": ["banner-vitrina2","vitrina2-2"]
   },
   "children": [
+<<<<<<< HEAD
     "image#col-shirt-hombre-right",
     "info-card#col-shirt-hombre-rightM"
   ]
@@ -187,6 +206,26 @@
   }
 },
 
+=======
+    "info-card#col-shirt-hombre-right",
+    "info-card#col-shirt-hombre-rightM"
+  ]
+},
+"info-card#col-shirt-hombre-right":{
+  "props": {
+    "id": "info-card-shirt",
+    "isFullModeStyle": true,
+    "fullWidth": true,
+    //"textPosition": "left",
+    "imageUrl": "assets/desk/hombre/banner-vitrina2.jpg",
+    "callToActioMode": "none",
+    //"headline": "Clearance Sale",
+    //"callToActionText": "DISCOVER",
+    //"callToActionUrl": "/sale/d",
+    "blockClass": ["info-card-shirt-right", "depto-desk"]
+  }
+},
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 "info-card#col-shirt-hombre-rightM":{
   "props": {
     "id": "info-card-shoes",
@@ -239,7 +278,11 @@
     "width": "30%"
   },
   "children": [
+<<<<<<< HEAD
     "image#col-banner-hombre-left"
+=======
+    "info-card#col-banner-hombre-left"
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   ]
 },
 "flex-layout.col#banner-hombre-right": {
@@ -302,10 +345,14 @@
 "image#col-left-hombreM": {
   "props": {
     "src": "https://callearturop.vtexassets.com/arquivos/dep-hombre-banner-grid1.jpg",
+<<<<<<< HEAD
     "blockClass": ["bannerfinal"],
     "link": {
       "url": "/ofertas/hombre"
     }
+=======
+    "blockClass": ["bannerfinal"]
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   }
 },
 
@@ -321,20 +368,30 @@
 
 "image#col-right-1-hombreM": {
   "props": {
+<<<<<<< HEAD
     "src": "assets/desk/hombre/banner-grid2.jpg",
     "blockClass": ["bannerfinal2"],
     "link": {
       "url": "/hombre/ropa"
     }
+=======
+    "src": "https://callearturop.vtexassets.com/arquivos/dep-hombre-banner-grid2.jpg",
+    "blockClass": ["bannerfinal2"]
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   }
 },
 "image#col-right-2-hombreM": {
   "props": {
+<<<<<<< HEAD
     "src": "assets/desk/hombre/banner-grid3.jpg",
     "blockClass": ["bannerfinal2"],
     "link": {
       "url": "/hombre/ropa"
     }
+=======
+    "src": "https://callearturop.vtexassets.com/arquivos/dep-hombre-banner-grid3.jpg",
+    "blockClass": ["bannerfinal3"]
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   }
 },
 
@@ -343,6 +400,7 @@
 /*------------------------*/
 /* Banner secundario 1   */
 /*----------------------*/
+<<<<<<< HEAD
 "image#col-banner-hombre-left": {
   "props": {
     "src": "assets/desk/hombre/baner-secundario1.jpg",
@@ -350,6 +408,16 @@
     "link": {
       "url": "/hombre/ropa/"
   }
+=======
+"info-card#col-banner-hombre-left":{
+  "props": {
+    "id": "info-card-shoes",
+    "isFullModeStyle": true,
+    "fullWidth": true,
+    "imageUrl": "assets/desk/hombre/baner-secundario1.jpg",
+    "callToActioMode": "none",
+    "blockClass": "info-card-banner-left"
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   }
 },
 "info-card#col-banner-hombre-leftM":{

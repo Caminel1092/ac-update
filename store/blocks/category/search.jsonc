@@ -68,7 +68,10 @@
     "children": [
       "list-context.image-list#categorysSearch",
       //"flex-layout.row#vitrinaDestacadaSearch",
+<<<<<<< HEAD
       "flex-layout.row#vitrineCategory",
+=======
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
       "flex-layout.row#searchbread",
       "flex-layout.row#searchtitle",
       "flex-layout.row#result"
@@ -155,6 +158,11 @@
   "flex-layout.col#content": {
     "children": [
       "flex-layout.row#searchinfo",
+<<<<<<< HEAD
+=======
+      "flex-layout.row#vitrineCategory",
+      "flex-layout.row#fetchprevious",
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
       "flex-layout.row#products",
       "flex-layout.row#fetchmore"
     ],
@@ -345,22 +353,38 @@
   },
   "gallery-layout-option#grid": {
     "props": {
+<<<<<<< HEAD
       "name": "grid",
       "blockClass":"4x"
     },
     "children": [
       "icon-grid"
       //"responsive-layout.desktop#textOptionGrid"
+=======
+      "name": "grid"
+    },
+    "children": [
+      "icon-grid",
+      "responsive-layout.desktop#textOptionGrid"
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
     ]
   },
   "gallery-layout-option#list": {
     "props": {
+<<<<<<< HEAD
       "name": "list",
       "blockClass": "3x"
     },
     "children": [
       "icon-inline-grid"
       //"responsive-layout.desktop#textOptionList"
+=======
+      "name": "list"
+    },
+    "children": [
+      "icon-inline-grid",
+      "responsive-layout.desktop#textOptionList"
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
     ]
   },
   "responsive-layout.desktop#textOptionGrid": {

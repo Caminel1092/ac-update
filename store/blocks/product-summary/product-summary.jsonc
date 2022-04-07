@@ -164,7 +164,11 @@
     "props": {
       "showBadge": false,
       "aspectRatio": "3:4",
+<<<<<<< HEAD
       "maxHeight": 570,
+=======
+      "maxHeight": 460,
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
       "hoverImage":{
         "criteria":"label",
         "label": "2",

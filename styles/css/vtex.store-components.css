@@ -542,6 +542,13 @@ input#downshift-1-input {
   transition: transform .2s;  /*easyzoom*/
 }
 
+<<<<<<< HEAD
+=======
+.productImage :global(.vtex-store-components-3-x-productImageTag):hover {
+  transform: scale(1.5);
+}
+
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 .skuSelectorOptionsList{/*diferentes opciones de productos---se colocan los que estan cargados en el sistema*/
   margin: 0;
 }
@@ -863,6 +870,7 @@ input#downshift-1-input {
   background: #543023;
   border-radius: 7px;
 }
+<<<<<<< HEAD
 .skuSelectorItem--verde-malaquita{
   background: #00FF00;
   border-radius: 7px;
@@ -879,6 +887,8 @@ input#downshift-1-input {
 
 
 
+=======
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 
 
 
@@ -1007,9 +1017,15 @@ input#downshift-1-input {
 .skuSelectorSubcontainer--talla {
   opacity: 0;
   visibility: hidden;
+<<<<<<< HEAD
   transition: 0s;
   position: absolute;
   top: -5px;
+=======
+  transition: 1s;
+  position: absolute;
+  top: -20px;
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
 }
 .skuSelectorContainer{
   transition: 1s;
@@ -1018,7 +1034,10 @@ input#downshift-1-input {
   display: flex;
   top: 0;
   position: relative;
+<<<<<<< HEAD
   transition: 1s;
+=======
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   opacity: 1;
   visibility: visible;
 } 

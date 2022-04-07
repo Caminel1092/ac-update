@@ -24,6 +24,7 @@
     min-width: 40%;
   }
 }
+<<<<<<< HEAD
 
 .galleryLayoutOptionButton--4x::before {content: "";width: 45px;height: 20px;background: url(https://callearturop.vteximg.com.br/arquivos/x4-a.png)   no-repeat;background-size: 100%;}
 
@@ -32,3 +33,5 @@
 .galleryLayoutOptionButton--3x--selected::before {background: url(https://callearturop.vteximg.com.br/arquivos/x3.png) no-repeat;background-size: 100%;}
 
 .galleryLayoutOptionButton--4x--selected::before {background: url("https://callearturop.vteximg.com.br/arquivos/x4.png") no-repeat;background-size: 100%;}
+=======
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913

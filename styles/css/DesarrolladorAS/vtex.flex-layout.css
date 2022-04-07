@@ -134,3 +134,11 @@
     display: none;
   }
 }
+<<<<<<< HEAD
+=======
+.flexRowContent--segundacol .flexCol {padding: 0;margin: 0;}
+
+.flexRowContent--segundacol .flexColflexCol--priceWrapper {margin: 0;justify-content: center;}
+
+.flexRow--contenedor {border-bottom: 1px solid #dad9d9;}
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913

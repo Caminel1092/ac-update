@@ -117,6 +117,10 @@
     top: 0;
     opacity: 0;
     visibility: hidden;
+<<<<<<< HEAD
+=======
+    transition: 1s;
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
     width: 100%;
 }
 .content--contenidoD--visible {
@@ -125,5 +129,9 @@
     visibility: visible;
     top: 0;
     position: relative;
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913

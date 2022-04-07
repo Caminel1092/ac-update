@@ -158,10 +158,14 @@
     }
   },
   "flex-layout.row#product-image": {
+<<<<<<< HEAD
     "children": ["product-images", "modal-trigger#zoom-bottom"],
     "props":{
       "blockClass":"producto-image-and-zoom"
     }
+=======
+    "children": ["product-images"]
+>>>>>>> c1f40adffafc45e98f5e5bf55b03da4c4ef39913
   },
   "product-images#sticky": {
     "props": {
