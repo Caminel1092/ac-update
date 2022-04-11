@@ -143,3 +143,41 @@
   margin: 0 0 0 auto;
 }
 }
+
+
+/*---------------------ZOOM PAGINA DE PRODUCTO*/
+.productImagesGallerySlide {
+  width: 100% !important;
+}
+.productImageTag.productImageTag--images-modal-zoom.productImageTag--main.productImageTag--images-modal-zoom--main:hover {
+  transform: scale(1);
+}
+.productImageTag.productImageTag--main {
+  max-height: none !important;
+  margin: 10px;
+}
+.productImage.productImage--images-modal-zoom:last-child {
+  left: 0;
+}
+@media screen and (max-width: 700px) {
+  .productImageTag.productImageTag--main {
+    max-height: none !important;
+    margin: 10px 0;
+  }
+
+  .skuSelectorSubcontainer--talla.skuSelectorSubcontainer {
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+    top: 0;
+  }
+
+  /*Quitar ícono de flechas en mobile*/
+  .swiperCaret {
+    display: none;
+  }
+}
+/*Adicionales*/
+.imageElement.imageElement--info-card-home.imageElement--depto-desk {
+  width: 100%;
+}
